@@ -4,7 +4,7 @@
       Data: 07/01/2021
       Tecnologias: JavaScript, CSS, HTML.
       Como rodar: Clonando o repositorio e copiando caminho no navegador
-                  ou acessando o link no netliy: https://controle-financeiro-mateus.netlify.app/
+                  ou acessando o link no netlify: https://controle-financeiro-mateus.netlify.app/
                   
       
       O projeto foi desenvolvido para gerenciar as finanças de forma simples e sem muitas configurações.
